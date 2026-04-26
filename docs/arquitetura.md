@@ -4,9 +4,6 @@
 
 O Jean Soluções Digitais é uma plataforma web que combina site institucional e sistema de gestão de leads em uma única solução.
 
-[![🎥 Assista à demonstração](https://img.youtube.com/vi/qPCjkcatZxU/maxresdefault.jpg)](https://www.youtube.com/watch?v=qPCjkcatZxU)
-
-
 A arquitetura foi projetada para suportar:
 
 * captação de clientes
