@@ -2,7 +2,9 @@
 
 O **Jean Soluções Digitais** é uma plataforma web completa desenvolvida para posicionamento profissional, geração de leads e apresentação de serviços digitais.
 
-[![🎥 Assista à demonstração](https://img.youtube.com/vi/qPCjkcatZxU/hqdefault.jpg)](https://www.youtube.com/watch?v=qPCjkcatZxU)
+<a href="https://www.youtube.com/watch?v=qPCjkcatZxU">
+  <img src="https://img.youtube.com/vi/qPCjkcatZxU/sddefault.jpg" width="1280" alt="🎥 Assista à demonstração"/>
+</a>
 
 O projeto combina um site institucional moderno com um CMS completo para gestão de conteúdo e acompanhamento de oportunidades de negócio.
 
